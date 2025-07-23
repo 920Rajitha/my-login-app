@@ -13,7 +13,7 @@ This is a simple React Native application that includes login and registration s
 
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/920Rajitha/my-login-app.git
    cd your-repo-name
    \`\`\`
 
